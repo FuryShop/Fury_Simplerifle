@@ -154,18 +154,15 @@
 					<DamageFallOffRangeMax value="1500.000000"/>
 					<DamageFallOffModifier value="0.300000"/>
 					<VehicleWeaponHash/>
-
 					<DefaultCameraHash>DEFAULT_THIRD_PERSON_PED_AIM_CAMERA</DefaultCameraHash>
 					<CoverCameraHash>DEFAULT_THIRD_PERSON_PED_AIM_IN_COVER_CAMERA</CoverCameraHash>
 					<CoverReadyToFireCameraHash />
 					<RunAndGunCameraHash>DEFAULT_THIRD_PERSON_PED_RUN_AND_GUN_CAMERA</RunAndGunCameraHash>
 					<CinematicShootingCameraHash>DEFAULT_THIRD_PERSON_PED_CINEMATIC_SHOOTING_CAMERA</CinematicShootingCameraHash>
-
 					<CinematicShootingCameraHash/>
 					<AlternativeOrScopedCameraHash/>
 					<RunAndGunAlternativeOrScopedCameraHash/>
 					<CinematicShootingAlternativeOrScopedCameraHash/>
-					
 					<CameraFov value="35.000000" />
 					<FirstPersonAimFovMin value="25.000000" />
 					<FirstPersonAimFovMax value="47.000000" />
@@ -175,9 +172,7 @@
 					<FirstPersonRNGRotationOffset x="0.000000" y="0.000000" z="0.000000" />
 					<FirstPersonLTOffset x="-0.010000" y="0.000000" z="-0.070000" />
 					<FirstPersonLTRotationOffset x="0.000000" y="0.000000" z="0.000000" />	
-
 					<FirstPersonScopeOffset x="0.00000" y="0.10000" z="0.018" />
-
 					<FirstPersonScopeAttachmentOffset x="0.00000" y="0.120000" z="-0.015000" />
 					<FirstPersonScopeRotationOffset x="-0.65000" y="0.000000" z="0.000000" />
 					<FirstPersonScopeAttachmentRotationOffset x="0.000000" y="0.000000" z="0.000000" />
@@ -190,7 +185,6 @@
 					<FirstPersonDofMaxNearInFocusDistance value="0.000000" />
 					<FirstPersonDofMaxNearInFocusDistanceBlendLevel value="0.300000" />
 					<ZoomFactorForAccurateMode value="1.300000" />
-
 					<RecoilShakeHash>DEFAULT_FIRST_PERSON_RECOIL_SHAKE</RecoilShakeHash>
 					<RecoilShakeHashFirstPerson>DEFAULT_FIRST_PERSON_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
 					<AccuracyOffsetShakeHash/>
@@ -198,7 +192,6 @@
 					<RecoilShakeAmplitude value="0.280000"/>
 					<ExplosionShakeAmplitude value="-1.000000"/>
 					<ReticuleHudPosition x="0.000000" y="0.000000"/>
-
 					<AimOffsetMin x="0.200000" y="0.300000" z="0.600000" />
 					<AimProbeLengthMin value="0.520000" />
 					<AimOffsetMax x="0.180000" y="-0.225000" z="0.475000" />
@@ -221,7 +214,6 @@
 					<ReticuleMinSizeStanding value="0.600000" />
 					<ReticuleMinSizeCrouched value="0.500000" />
 					<ReticuleScale value="0.300000" />
-
 					<ReticuleStyleHash>WEAPONTYPE_RIFLE</ReticuleStyleHash>
 					<FirstPersonReticuleStyleHash />
 					<PickupHash>PICKUP_WEAPON_SNIPERRIFLE</PickupHash>
@@ -236,7 +228,6 @@
 					<GunFeedBone/>
 					<TargetSequenceGroup/>
 					<WeaponFlags>CarriedInHand  Gun CanFreeAim TwoHanded AnimReload AnimCrouchFire UsableOnFoot UsableInCover HasLowCoverReloads HasLowCoverSwaps UseFPSAimIK UseFPSSecondaryMotion UseFPSAnimatedRecoil DisableFPSAimForScope AllowCloseQuarterKills</WeaponFlags>
-
 					<TintSpecValues ref="TINT_DEFAULT"/>
 					<FiringPatternAliases ref="NULL"/>
 					<ReloadUpperBodyFixupExpressionData ref="default"/>
